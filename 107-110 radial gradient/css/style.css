@@ -1,0 +1,20 @@
+div{
+    width: 400px;
+    height: 250px;
+    display: inline-block
+}
+.box1{
+    background-image: radial-gradient(circle,red,yellow,blue)
+}
+.box2{
+    background-image: radial-gradient(ellipse,red,yellow,blue)
+}
+.box3{
+    background-image: radial-gradient(circle,red,red 20%,yellow 20%,yellow 50%,blue 50%)
+}
+.box4{
+    background-image: radial-gradient(circle at right top,red,yellow 30%,yellow 45%,blue)
+}
+.box5{
+    background-image: radial-gradient(circle at 150px 100px,red,yellow,blue)
+}
