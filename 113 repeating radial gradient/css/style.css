@@ -1,0 +1,18 @@
+div{
+    display: inline-block;
+}
+.box1{
+    width: 400px;
+    height: 200px;
+    background: repeating-radial-gradient(circle at right top,red,gray,yellow 10%)
+}
+.box2{
+    width: 400px;
+    height: 200px;
+    background: repeating-radial-gradient(ellipse at 100px 150px,red,khaki,yellow 30%)
+}
+.box3{
+    width: 400px;
+    height: 200px;
+    background: repeating-radial-gradient(ellipse at 20% 50%,red 4%,yellow 10%,blue 20%)
+}
