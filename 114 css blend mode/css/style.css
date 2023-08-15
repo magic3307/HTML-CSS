@@ -1,0 +1,9 @@
+.box{
+    width: 700px;
+    height: 500px;
+    background-image: url(../image/darya.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: darkkhaki;
+    background-blend-mode: multiply;
+}
