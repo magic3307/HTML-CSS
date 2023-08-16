@@ -1,0 +1,18 @@
+.box{
+    width: 500px;
+    height: 500px;
+    background-color: darkkhaki;
+    clip-path: inset(10px 20px round 10px 100px);
+}
+.box2{
+    width: 500px;
+    height: 500px;
+    background-color: darkslateblue;
+    clip-path:circle(500px at top left)
+}
+.box3{
+    width: 500px;
+    height: 500px;
+    background-color: darkblue;
+    clip-path:circle(500px at 500px 10px)
+}
