@@ -1,0 +1,40 @@
+.box{
+    width: 700px;
+    height: 500px;
+    background: url(../image/darya.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    clip-path: ellipse()
+}
+.box2{
+    width: 700px;
+    height: 500px;
+    background: url(../image/daryache.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    clip-path: ellipse(300px 200px at center center)
+}
+.box3{
+    width: 700px;
+    height: 500px;
+    background: url(../image/daryache.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    clip-path: ellipse(300px 200px at left top)
+}
+.box4{
+    width: 700px;
+    height: 500px;
+    background: url(../image/daryache.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    clip-path: ellipse(350px 250px at 200px 150px)
+}
+.box5{
+    width: 700px;
+    height: 500px;
+    background: url(../image/daryache.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    clip-path: ellipse(350px 250px at 80% 60%)
+}

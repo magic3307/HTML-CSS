@@ -1,0 +1,30 @@
+.box{
+    width: 500px;
+    height: 500px;
+    background-color: olivedrab;
+    clip-path: polygon(500px 0, 500px 500px, 0 500px)
+}
+.box2{
+    width: 500px;
+    height: 500px;
+    background-image: url(../image/darya.jpg);
+    clip-path: polygon(20% 0%, 80% 0%, 100% 100%, 0% 100%);
+}
+.box3{
+    width: 500px;
+    height: 500px;
+    background-image: url(../image/daryache.jpg);
+    clip-path: polygon(25% 0%, 100% 0%, 75% 100%, 0% 100%);
+}
+.box4{
+    width: 500px;
+    height: 500px;
+    background-image: url(../image/kooh.jpg);
+    clip-path: polygon(50% 0%, 83% 12%, 100% 43%, 94% 78%, 68% 100%, 32% 100%, 6% 78%, 0% 43%, 17% 12%);
+}
+.box5{
+    width: 500px;
+    height: 500px;
+    background-image: url(../image/kooh.jpg);
+   clip-path: polygon(0% 20%, 60% 20%, 60% 0%, 100% 50%, 60% 100%, 60% 80%, 0% 80%);
+}
